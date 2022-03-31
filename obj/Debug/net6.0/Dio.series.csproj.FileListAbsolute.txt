@@ -1,0 +1,15 @@
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.csproj.AssemblyReference.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.AssemblyInfoInputs.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.AssemblyInfo.cs
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.csproj.CoreCompileInputs.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\bin\Debug\net6.0\Dio.series.exe
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\bin\Debug\net6.0\Dio.series.deps.json
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\bin\Debug\net6.0\Dio.series.runtimeconfig.json
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\bin\Debug\net6.0\Dio.series.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\bin\Debug\net6.0\Dio.series.pdb
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\refint\Dio.series.dll
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.pdb
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\Dio.series.genruntimeconfig.cache
+G:\Cursos\Projetos Dev\Curso 02 - Dev\Visual - Aulas\Desafios\Desafio_02\Dio.series\obj\Debug\net6.0\ref\Dio.series.dll
